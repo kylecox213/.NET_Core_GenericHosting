@@ -1,0 +1,4 @@
+C:\Users\acox\Documents\other proj\GenericHostSample\GenericHostSample\bin\Debug\netcoreapp3.0\GenericHostSample.exe
+C:\Users\acox\Documents\other proj\GenericHostSample\GenericHostSample\obj\Debug\netcoreapp3.0\GenericHostSample.csprojAssemblyReference.cache
+C:\Users\acox\Documents\other proj\GenericHostSample\GenericHostSample\obj\Debug\netcoreapp3.0\GenericHostSample.AssemblyInfoInputs.cache
+C:\Users\acox\Documents\other proj\GenericHostSample\GenericHostSample\obj\Debug\netcoreapp3.0\GenericHostSample.AssemblyInfo.cs
