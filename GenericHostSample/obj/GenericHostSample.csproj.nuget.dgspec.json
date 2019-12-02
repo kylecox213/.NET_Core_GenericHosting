@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acox\\Documents\\other proj\\GenericHostSample\\GenericHostSample\\GenericHostSample.csproj": {}
+    "C:\\Users\\acox\\Documents\\other proj\\.NET_Core_GenericHosting\\GenericHostSample\\GenericHostSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acox\\Documents\\other proj\\GenericHostSample\\GenericHostSample\\GenericHostSample.csproj": {
+    "C:\\Users\\acox\\Documents\\other proj\\.NET_Core_GenericHosting\\GenericHostSample\\GenericHostSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acox\\Documents\\other proj\\GenericHostSample\\GenericHostSample\\GenericHostSample.csproj",
+        "projectUniqueName": "C:\\Users\\acox\\Documents\\other proj\\.NET_Core_GenericHosting\\GenericHostSample\\GenericHostSample.csproj",
         "projectName": "GenericHostSample",
-        "projectPath": "C:\\Users\\acox\\Documents\\other proj\\GenericHostSample\\GenericHostSample\\GenericHostSample.csproj",
+        "projectPath": "C:\\Users\\acox\\Documents\\other proj\\.NET_Core_GenericHosting\\GenericHostSample\\GenericHostSample.csproj",
         "packagesPath": "C:\\Users\\acox\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acox\\Documents\\other proj\\GenericHostSample\\GenericHostSample\\obj\\",
+        "outputPath": "C:\\Users\\acox\\Documents\\other proj\\.NET_Core_GenericHosting\\GenericHostSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,12 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "dependencies": {
-            "Microsoft.Extensions.Hosting": {
-              "target": "Package",
-              "version": "[3.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
